@@ -2,6 +2,9 @@
 
 ## Online/Offline Budget Trackers :moneybag:
 
+### App link:
+### GitHub link:
+
 ### General info :page_facing_up:
 
 * Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
@@ -34,5 +37,4 @@ SO THAT my account balance is accurate when I am traveling
 WHEN the user inputs a withdrawal or deposit
 THEN that will be shown on the page, and added to their transaction history when their connection is back online.
 
-## Screenshots :camera:
 
