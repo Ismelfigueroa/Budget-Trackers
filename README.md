@@ -1,8 +1,8 @@
 # Unit-18-PWA-Homework
 
-## Online/Offline Budget Trackers
+## Online/Offline Budget Trackers :moneybag:
 
-### General info
+### General info :page_facing_up:
 
 * Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
 
@@ -19,7 +19,7 @@
 
   * Offline entries should be added to tracker.
   
-## User Story
+## User Story :sunglasses:
 * AS AN avid traveller
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
 SO THAT my account balance is accurate when I am traveling
@@ -34,5 +34,5 @@ SO THAT my account balance is accurate when I am traveling
 WHEN the user inputs a withdrawal or deposit
 THEN that will be shown on the page, and added to their transaction history when their connection is back online.
 
-## Screenshots :+1:
+## Screenshots :camera:
 
