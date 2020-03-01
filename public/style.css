@@ -1,0 +1,81 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-size: 16px;
+    font-family: Arial;
+    background-color: rgb(243, 242, 182);
+  }
+  
+  button,
+  input {
+    font-size: 1em;
+    font-family: Arial;
+  }
+  
+  label {
+    font-weight: 900;
+  }
+  
+  input {
+    border: 2px solid transparent;
+    border-radius: 6px;
+    padding: .4em .8em;
+    background-color: rgb(38, 236, 81);
+  }
+  
+  input:focus {
+    background-color: rgb(240, 238, 146);
+    border: 2px solid #CBD5E0;
+    outline: 0;
+  }
+  
+  button {
+    background: rgb(38, 236, 81);
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    color: rgb(235, 43, 43);
+    padding: 25px;
+    box-shadow: inset 0 -3px 0 0 rgb(196, 54, 19);
+  }
+  
+  button:active {
+    box-shadow: none;
+    transform: translateY(3px);
+  }
+  
+  table {
+    width: 100%;
+  }
+  
+  .error {
+    color: black;
+  }
+  
+  .wrapper {
+    margin: 0 auto;
+    max-width: 800px;
+    text-align: center;
+  }
+  
+  .total {
+    font-size: 150%;
+  }
+  
+  form {
+    margin-top: 25px;
+  }
+  
+  .transactions {
+    text-align: left;
+    max-height: 300px;
+    overflow: auto;
+    width: 90%;
+    margin: 0 auto;
+  }
+  
+  .transaction-buttons {
+    margin-top: 25px;
+  }
