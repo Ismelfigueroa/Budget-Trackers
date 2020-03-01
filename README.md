@@ -2,4 +2,4 @@
 
 ## Online/Offline Budget Trackers
 
-** **General info
+** General info
