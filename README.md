@@ -1,6 +1,6 @@
-# Unit 18 PWA Homework :moneybag: 
+# Unit 18 PWA Homework 
 
-## Online/Offline Budget Trackers :ok_hand:
+## Online/Offline Budget Trackers :moneybag: 
 
 ***GitHub link:*** https://github.com/Ismelfigueroa/Homework-18.git
 
@@ -31,7 +31,7 @@ SO THAT my account balance is accurate when I am traveling
 * Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
 
 
-## Acceptance Criteria
+## Acceptance Criteria :inbox_tray:
 
 * GIVEN a user is on Budget App without an internet connection
 WHEN the user inputs a withdrawal or deposit
