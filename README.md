@@ -34,5 +34,5 @@ SO THAT my account balance is accurate when I am traveling
 WHEN the user inputs a withdrawal or deposit
 THEN that will be shown on the page, and added to their transaction history when their connection is back online.
 
-## Screenshots
+## Screenshots :+1:
 
