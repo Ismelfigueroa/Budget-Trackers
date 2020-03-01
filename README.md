@@ -2,8 +2,8 @@
 
 ## Online/Offline Budget Trackers :moneybag:
 
-### App link:
-### GitHub link:
+**App link:** []
+**GitHub link:** []
 
 ### General info :page_facing_up:
 
