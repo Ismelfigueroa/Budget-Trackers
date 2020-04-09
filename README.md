@@ -4,7 +4,7 @@
 
 ***GitHub link:*** https://github.com/Ismelfigueroa/Homework-18.git
 
-***Heroku Link:*** https://git.heroku.com/budget-tracker-ismel.git
+***Heroku Link:*** 
 
 ## Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
 
